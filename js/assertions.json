@@ -1,0 +1,10 @@
+{
+  "simulation": "userservice.AutenticacaoPerformance",
+  "simulationId": "autenticacaoperformance",
+  "start": 1610820104462,
+  "description": "",
+  "scenarios": ["Criar e Autenticar"],
+  "assertions": [
+
+  ]
+}
