@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/runner/work/userservice-nfr-test/userservice-nfr-test/src/main/resources/logback.xml,/home/runner/work/userservice-nfr-test/userservice-nfr-test/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/runner/work/userservice-nfr-test/userservice-nfr-test/src/main/resources/gatling.conf,/home/runner/work/userservice-nfr-test/userservice-nfr-test/target/scala-2.13/classes/gatling.conf)[0m

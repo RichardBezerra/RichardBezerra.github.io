@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/lib64:/usr/lib:/lib:/usr/lib32:/lib32:/usr/lib/x86_64-linux-gnu/libfakeroot, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/home/runner/.cache/JNA/temp/jna633983648499634247.tmp, -Dswoval.tmpdir=/home/runner/.sbt/1.0, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(userservice.AutenticacaoFunctional, sbt.ForkMain$SubclassFingerscan@50134894, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation AutenticacaoFunctional successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation(s) execution ended.[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	userservice.AutenticacaoFunctional[0m

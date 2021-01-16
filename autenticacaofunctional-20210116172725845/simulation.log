@@ -1,0 +1,5 @@
+RUN	userservice.AutenticacaoFunctional	autenticacaofunctional	1610818045845	 	3.5.0
+USER	Criar e Autenticar	START	1610818047286
+REQUEST		Criar	1610818047316	1610818047327	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+REQUEST		Autenticar	1610818047334	1610818047335	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+USER	Criar e Autenticar	END	1610818047338

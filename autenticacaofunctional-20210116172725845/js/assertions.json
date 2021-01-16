@@ -1,0 +1,10 @@
+{
+  "simulation": "userservice.AutenticacaoFunctional",
+  "simulationId": "autenticacaofunctional",
+  "start": 1610818045845,
+  "description": "",
+  "scenarios": ["Criar e Autenticar"],
+  "assertions": [
+
+  ]
+}
