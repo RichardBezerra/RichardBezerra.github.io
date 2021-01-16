@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/runner/work/userservice-nfr-test/userservice-nfr-test/target/scala-2.13/it-classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AutenticacaoPerformance.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/runner/work/userservice-nfr-test/userservice-nfr-test/target/scala-2.13/it-classes.bak[0m
