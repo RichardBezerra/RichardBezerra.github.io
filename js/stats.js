@@ -16,9 +16,9 @@ stats: {
         "ko": "0"
     },
     "maxResponseTime": {
-        "total": "10",
+        "total": "7",
         "ok": "-",
-        "ko": "10"
+        "ko": "7"
     },
     "meanResponseTime": {
         "total": "0",
@@ -95,9 +95,9 @@ stats: {
         "ko": "0"
     },
     "maxResponseTime": {
-        "total": "10",
+        "total": "7",
         "ok": "-",
-        "ko": "10"
+        "ko": "7"
     },
     "meanResponseTime": {
         "total": "0",
@@ -173,9 +173,9 @@ stats: {
         "ko": "0"
     },
     "maxResponseTime": {
-        "total": "8",
+        "total": "5",
         "ok": "-",
-        "ko": "8"
+        "ko": "5"
     },
     "meanResponseTime": {
         "total": "0",
