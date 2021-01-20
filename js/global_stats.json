@@ -2,72 +2,72 @@
     "name": "Global Information",
     "numberOfRequests": {
         "total": 76760,
-        "ok": 30402,
-        "ko": 46358
+        "ok": 30803,
+        "ko": 45957
     },
     "minResponseTime": {
         "total": 77,
         "ok": 77,
-        "ko": 77
+        "ko": 154
     },
     "maxResponseTime": {
-        "total": 10090,
-        "ok": 8044,
-        "ko": 10090
+        "total": 10034,
+        "ok": 8807,
+        "ko": 10034
     },
     "meanResponseTime": {
-        "total": 5563,
-        "ok": 1068,
-        "ko": 8510
+        "total": 5548,
+        "ok": 1115,
+        "ko": 8519
     },
     "standardDeviation": {
-        "total": 4599,
-        "ok": 1972,
-        "ko": 3247
+        "total": 4602,
+        "ok": 2074,
+        "ko": 3240
     },
     "percentiles1": {
-        "total": 7414,
-        "ok": 158,
+        "total": 7429,
+        "ok": 157,
         "ko": 10000
     },
     "percentiles2": {
         "total": 10000,
-        "ok": 1176,
+        "ok": 1175,
         "ko": 10000
     },
     "percentiles3": {
         "total": 10001,
-        "ok": 7276,
+        "ok": 7303,
         "ko": 10001
     },
     "percentiles4": {
         "total": 10001,
-        "ok": 7467,
-        "ko": 10001
+        "ok": 7571,
+        "ko": 10003
     },
     "group1": {
     "name": "t < 800 ms",
-    "count": 21558,
-    "percentage": 28
+    "count": 22138,
+    "percentage": 29
 },
     "group2": {
     "name": "800 ms < t < 1200 ms",
-    "count": 2944,
-    "percentage": 4
+    "count": 2480,
+    "percentage": 3
 },
     "group3": {
     "name": "t > 1200 ms",
-    "count": 5900,
+    "count": 6185,
     "percentage": 8
 },
     "group4": {
     "name": "failed",
-    "count": 46358,
+    "count": 45957,
     "percentage": 60
 },
     "meanNumberOfRequestsPerSecond": {
-        "total": 193.3501259445844,
-        "ok": 76.5793450881612,
-        "ko": 116.77078085642317
+        "total": 193.83838383838383,
+        "ok": 77.78535353535354,
+        "ko": 116.0530303030303
     }
 }
