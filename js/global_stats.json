@@ -6,13 +6,13 @@
         "ko": 0
     },
     "minResponseTime": {
-        "total": 77,
-        "ok": 77,
+        "total": 76,
+        "ok": 76,
         "ko": 0
     },
     "maxResponseTime": {
-        "total": 344,
-        "ok": 344,
+        "total": 336,
+        "ok": 336,
         "ko": 0
     },
     "meanResponseTime": {
@@ -26,8 +26,8 @@
         "ko": 0
     },
     "percentiles1": {
-        "total": 115,
-        "ok": 115,
+        "total": 101,
+        "ok": 101,
         "ko": 0
     },
     "percentiles2": {
@@ -36,8 +36,8 @@
         "ko": 0
     },
     "percentiles3": {
-        "total": 159,
-        "ok": 159,
+        "total": 158,
+        "ok": 158,
         "ko": 0
     },
     "percentiles4": {
