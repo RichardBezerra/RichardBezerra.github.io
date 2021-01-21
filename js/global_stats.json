@@ -2,72 +2,72 @@
     "name": "Global Information",
     "numberOfRequests": {
         "total": 117390,
-        "ok": 83108,
-        "ko": 34282
+        "ok": 88848,
+        "ko": 28542
     },
     "minResponseTime": {
-        "total": 75,
-        "ok": 75,
-        "ko": 152
+        "total": 76,
+        "ok": 76,
+        "ko": 154
     },
     "maxResponseTime": {
         "total": 60001,
-        "ok": 10052,
+        "ok": 9728,
         "ko": 60001
     },
     "meanResponseTime": {
-        "total": 2804,
-        "ok": 908,
-        "ko": 7398
+        "total": 2447,
+        "ok": 864,
+        "ko": 7376
     },
     "standardDeviation": {
-        "total": 3993,
-        "ok": 1894,
+        "total": 3779,
+        "ok": 1842,
         "ko": 4011
     },
     "percentiles1": {
-        "total": 157,
-        "ok": 155,
+        "total": 158,
+        "ok": 156,
         "ko": 10000
     },
     "percentiles2": {
-        "total": 7166,
-        "ok": 249,
+        "total": 3200,
+        "ok": 230,
         "ko": 10000
     },
     "percentiles3": {
         "total": 10000,
-        "ok": 7233,
+        "ok": 7226,
         "ko": 10001
     },
     "percentiles4": {
         "total": 10001,
-        "ok": 7446,
+        "ok": 7468,
         "ko": 10001
     },
     "group1": {
     "name": "t < 800 ms",
-    "count": 64325,
-    "percentage": 55
+    "count": 69673,
+    "percentage": 59
 },
     "group2": {
     "name": "800 ms < t < 1200 ms",
-    "count": 6461,
+    "count": 6642,
     "percentage": 6
 },
     "group3": {
     "name": "t > 1200 ms",
-    "count": 12322,
-    "percentage": 10
+    "count": 12533,
+    "percentage": 11
 },
     "group4": {
     "name": "failed",
-    "count": 34282,
-    "percentage": 29
+    "count": 28542,
+    "percentage": 24
 },
     "meanNumberOfRequestsPerSecond": {
-        "total": 177.32628398791542,
-        "ok": 125.54078549848943,
-        "ko": 51.78549848942598
+        "total": 169.149855907781,
+        "ok": 128.02305475504323,
+        "ko": 41.126801152737755
     }
 }
