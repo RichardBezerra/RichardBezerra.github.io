@@ -1,73 +1,73 @@
 {
     "name": "Global Information",
     "numberOfRequests": {
-        "total": 117390,
-        "ok": 85814,
-        "ko": 31576
+        "total": 109633,
+        "ok": 101876,
+        "ko": 7757
     },
     "minResponseTime": {
-        "total": 137,
-        "ok": 137,
-        "ko": 142
+        "total": 78,
+        "ok": 78,
+        "ko": 10000
     },
     "maxResponseTime": {
-        "total": 10028,
-        "ok": 10014,
-        "ko": 10028
+        "total": 10131,
+        "ok": 10131,
+        "ko": 10022
     },
     "meanResponseTime": {
-        "total": 2619,
-        "ok": 924,
-        "ko": 7224
+        "total": 1432,
+        "ok": 780,
+        "ko": 10000
     },
     "standardDeviation": {
-        "total": 3867,
-        "ok": 1889,
-        "ko": 4106
+        "total": 2925,
+        "ok": 1786,
+        "ko": 1
     },
     "percentiles1": {
-        "total": 154,
-        "ok": 148,
+        "total": 84,
+        "ok": 84,
         "ko": 10000
     },
     "percentiles2": {
-        "total": 3291,
-        "ok": 351,
+        "total": 1090,
+        "ok": 108,
         "ko": 10000
     },
     "percentiles3": {
         "total": 10000,
-        "ok": 7248,
+        "ok": 6767,
         "ko": 10001
     },
     "percentiles4": {
         "total": 10001,
-        "ok": 7674,
-        "ko": 10002
+        "ok": 7368,
+        "ko": 10001
     },
     "group1": {
     "name": "t < 800 ms",
-    "count": 67526,
-    "percentage": 58
+    "count": 81326,
+    "percentage": 74
 },
     "group2": {
     "name": "800 ms < t < 1200 ms",
-    "count": 5765,
-    "percentage": 5
+    "count": 7988,
+    "percentage": 7
 },
     "group3": {
     "name": "t > 1200 ms",
-    "count": 12523,
+    "count": 12562,
     "percentage": 11
 },
     "group4": {
     "name": "failed",
-    "count": 31576,
-    "percentage": 27
+    "count": 7757,
+    "percentage": 7
 },
     "meanNumberOfRequestsPerSecond": {
-        "total": 179.22137404580153,
-        "ok": 131.01374045801526,
-        "ko": 48.20763358778626
+        "total": 168.66615384615383,
+        "ok": 156.7323076923077,
+        "ko": 11.933846153846154
     }
 }
