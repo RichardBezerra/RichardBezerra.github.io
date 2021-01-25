@@ -1,9 +1,9 @@
 {
   "simulation": "userservice.AutenticacaoPerformance",
   "simulationId": "autenticacaoperformance",
-  "start": 1611594533392,
+  "start": 1611595783532,
   "description": "",
-  "scenarios": ["Health Check"],
+  "scenarios": ["Criar e Autenticar"],
   "assertions": [
 
   ]
